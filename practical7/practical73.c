@@ -10,3 +10,10 @@ int main(){
         ch='A';
     }
 }
+/*expected output
+
+A
+AB
+ABC
+ABCD
+*/
