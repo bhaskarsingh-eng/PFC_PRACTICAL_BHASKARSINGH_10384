@@ -14,3 +14,8 @@ int main(){
         printf("after swapping a=%d b=%d",a,b);
         return 0;
 }
+/*expected output
+5 6
+before swapping a=5 b=6
+after swapping a=6 b=5
+    */
