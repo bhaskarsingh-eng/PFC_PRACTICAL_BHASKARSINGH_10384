@@ -11,3 +11,7 @@ int main(){
     printf("sum of digits: %d",sum);
     return 0;
 }
+/*
+1234
+sum of digits: 10
+    */

@@ -12,3 +12,6 @@ int main(){
     printf("sum of even numbers=%d",sum);
     return 0;
 }
+/* expexted output
+12
+sum of even numbers=42*/

@@ -14,3 +14,11 @@ int main(){
     printstar(n);
     return 0;
 }
+/*expected output
+5
+*
+**
+***
+****
+*****
+*/

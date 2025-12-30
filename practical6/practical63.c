@@ -22,3 +22,14 @@ int main(){
     }
     return 0;
 }
+/*expected output
+entre your pin:
+1212
+incoorect pin
+entre your pin:
+123
+incoorect pin
+entre your pin:
+123 
+incoorect pin
+invalid attempts.your accounts is locked*/
